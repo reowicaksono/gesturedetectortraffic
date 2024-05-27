@@ -1,0 +1,4 @@
+0 Kecelakaan
+1 Bonceng 3
+2 Overloaded
+3 No helm
